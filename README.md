@@ -28,5 +28,5 @@ and always learning on the way!
 
 Angular Front End with PostgreSQL Node.js API
 
-#### [WebStore](https://github.com/SteveOverSea/Pokedex](https://github.com/AhmedALSuwayni/my-store)
+#### [WebStore](https://github.com/AhmedALSuwayni/my-store)
 
