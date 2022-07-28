@@ -28,6 +28,5 @@ and always learning on the way!
 
 Angular Front End with PostgreSQL Node.js API
 
-#### [WebStore]([https://github.com/SteveOverSea/Pokedex](https://github.com/AhmedALSuwayni/my-store))
+#### [WebStore](https://github.com/SteveOverSea/Pokedex](https://github.com/AhmedALSuwayni/my-store)
 
-TypeScript Node Back End serving VanillaJS Front End with API data from geonames, pixabay and weatherbit to show weather data for location depending on user input
